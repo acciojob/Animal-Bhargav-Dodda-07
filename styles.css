@@ -16,7 +16,8 @@
 }
 
 img{
-	display: flex-inline;
-	flex-direction: column;;
+	display: flex-row;
+	flex-direction: column;
 	justify-content: space-around;
+	border-radius: 15px;
 }
